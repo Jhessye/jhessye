@@ -1,3 +1,3 @@
 ## Hi there! 👋<3
 
-<img width="1200" height="552" alt="image" src="https://github.com/user-attachments/assets/a6fd7971-b11d-49ab-a545-97b22f4e9921" />
+![flipo wow GIF by Cartoon Network EMEA](https://github.com/user-attachments/assets/4edee14d-88fc-442f-a29d-d9db07b2009b)
