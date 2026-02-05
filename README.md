@@ -1,17 +1,18 @@
-## Welcome to my GitHub swettie 👋<3
+## Welcome to my GitHub sweetie 👋💗
 
 <img width="910" height="396" alt="logo" src="https://github.com/user-attachments/assets/3456ba3d-3fc5-4fe5-abe5-f0757c70d192" />
 
-HELLO! :D I’m **Jhessye**, a **developer focused on applied computing**, someone who likes systems that actually *do something useful and cool*. I enjoy building things from scratch, understanding how they work internally, and improving them step by step — whether that’s with **Java**, **Python**, or data-driven logic.
+HELLO! :D I’m Jhessye 💗, a **developer focused on applied computing**, someone who likes systems that actually *do something useful and cool*. I enjoy building things from scratch, understanding how they work internally, and improving them step by step — whether that’s with **Java**, **Python**, or data-driven logic.
 
 I’m especially interested in projects that mix **software development + data + decision-making**, like recommendation systems, simulations, automation tools, games, and small real-world systems.
 
 ---
 
-## About Me :)
+## ![About Me](https://img.shields.io/badge/ABOUT%20ME%20:D-ff69b4?style=for-the-badge&logo=heart&logoColor=white)
 
 *  Developer in training with a strong foundation in **programming logic**
-*  Java is my comfort zone (OOP, systems, structure) - even though I don't like coffee 
+*  ![LOVE PINK](https://img.shields.io/badge/LOVE%20PINK!-ffc0cb?style=flat-square&logoColor=white)
+*  Java is my comfort zone (OOP, systems, structure) - even though I don't like coffee
 *  Python is my tool for data, models, and experimentation - love this
 *  Interested in **recommendation systems, applied ML, and intelligent software** - THIS HAS HAAAARD
 *  I like understanding *why* something works — not just making it run - but sometimes, yes
@@ -19,41 +20,41 @@ I’m especially interested in projects that mix **software development + data +
 
 ---
 
-## 🧠 What I build (until now)
+## ![What I Build](https://img.shields.io/badge/WHAT%20I%20BUILD-ff69b4?style=for-the-badge&logo=heart&logoColor=white)
 
 My projects are usually **system-oriented and practical**, mixing code, logic, and experimentation:
 
-* 🎮 **Game systems with Godot**
+* 💗 **Game systems with Godot**
   Development of gameplay systems using **Godot + GDScript**, focusing on logic, state management, animations, interactions, and clean architecture. I treat games as software systems, not just visuals.
 
-* 🧩 **Java system**
+* 💗 **Java system**
   Inventory management system fully developed in Java, applying object-oriented programming, business logic, database integration, and system organization.
 
-* 🎯 **Recommendation systems**
+* 💗 **Recommendation systems**
   KNN-based models, similarity rankings, probability logic, and experiments with real datasets.
 
-* 🐍 **Python projects**
+* 💗 **Python projects**
   ETL, data processing, analysis, visualizations, and applied ML experiments.
 
 > I promise to deliver more cool projects.
 ---
 
-## Tech Stack
+## ![Some Tech Stack](https://img.shields.io/badge/SOME%20TECH%20STACK-ff69b4?style=for-the-badge&logo=heart&logoColor=white)
 
-### Languages
+### 💗 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
-### Data & Intelligence
+### 💗 Data & Intelligence
 
 ![Machine Learning](https://img.shields.io/badge/Applied-ML-blue?style=for-the-badge)
 ![KNN](https://img.shields.io/badge/Recommender-Systems-purple?style=for-the-badge)
 ![ETL](https://img.shields.io/badge/ETL-Data-orange?style=for-the-badge)
 ![DASHBOARDS](https://img.shields.io/badge/Dashboards-green?style=for-the-badge)
 
-### Tools & Platforms
+### 💗 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge\&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge\&logo=docker)
@@ -68,7 +69,7 @@ My projects are usually **system-oriented and practical**, mixing code, logic, a
 > there's definitely more.
 ---
 
-## Featured Project Types
+## ![Featured Projects](https://img.shields.io/badge/FEATURED%20PROJECTS-ff69b4?style=for-the-badge&logo=heart&logoColor=white)
 
 *  **Movie Recommendation System** (Python + KNN + probability)
 *  **Inventory Management System** (Java + OOP + Database)
@@ -79,8 +80,9 @@ My projects are usually **system-oriented and practical**, mixing code, logic, a
 
 ---
 
-## Let’s connect !! <3
+## ![Let's Connect](https://img.shields.io/badge/LET'S%20CONNECT%20<3-ff69b4?style=for-the-badge&logo=heart&logoColor=white)
 
-If you’re into **software development, applied AI, or practical systems** or just have fun, feel free to explore my repos or reach out.
+If you’re into **software development, applied AI, or practical systems** or want to just have fun, feel free to explore my repos or reach out.
 
 > *Code with purpose, systems with logic, and just enough chaos to keep it fun.* ✨
+> DEV BUT MAKE IT PINK 💗👩‍💻
