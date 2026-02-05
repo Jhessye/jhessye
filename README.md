@@ -2,7 +2,20 @@
 
 <img width="910" height="396" alt="logo" src="https://github.com/user-attachments/assets/3456ba3d-3fc5-4fe5-abe5-f0757c70d192" />
 
-HELLO! :D I’m Jhessye 💗, a **developer focused on applied computing**, someone who likes systems that actually *do something useful and cool*. I enjoy building things from scratch, understanding how they work internally, and improving them step by step — whether that’s with **Java**, **Python**, or data-driven logic.
+HELLO! :D 
+
+<table>
+  <tr>
+    <td width="65%">
+      I’m Jhessye 💗, a <strong>developer focused on applied computing</strong>, someone who likes systems that actually <em>do something useful and cool</em>.<br><br>
+      I enjoy building things from scratch, understanding how they work internally, and improving them step by step — whether that’s with <strong>Java</strong>, <strong>Python</strong>, or data-driven logic.
+    </td>
+    <td width="35%" align="center">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmpoZzI4ZmQxa2NrZTUyaGVwNzE5OXo2YXpqNXY1cmNva3VxenB1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4asRlBKdJaPeBahjcL/giphy.gif" width="180" height="150" alt="logo"/>
+    </td>
+  </tr>
+</table>
+
 
 I’m especially interested in projects that mix **software development + data + decision-making**, like recommendation systems, simulations, automation tools, games, and small real-world systems.
 
