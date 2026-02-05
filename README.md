@@ -38,7 +38,6 @@ I’m especially interested in projects that combines all my knowledge, **softwa
 *  I like understanding *why* something works — not just making it run - but sometimes, yes
 *  If it’s repetitive, I’ll try to automate it
 
----
 
 ## ![What I Build](https://img.shields.io/badge/WHAT%20I%20BUILD-ff69b4?style=for-the-badge&logo=heart&logoColor=white) ✧.*
 
@@ -57,7 +56,6 @@ My projects are usually **system-oriented and practical**, mixing code, logic, a
   ETL, data processing, analysis, visualizations, and applied ML experiments.
 
 > I promise to deliver more cool projects.
----
 
 ## ![Some Tech Stack](https://img.shields.io/badge/SOME%20TECH%20STACK-ff69b4?style=for-the-badge&logo=heart&logoColor=white) ₊˚ପ⊹
 
