@@ -3,7 +3,7 @@
 ╰┈➤  ![Profile views](https://komarev.com/ghpvc/?username=Jhessye&label=Profile%20Views%20&color=ff69b4&style=flat-square)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhessye&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=Jhessye&theme=tokyonight)
 
 
 
