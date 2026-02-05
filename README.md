@@ -2,9 +2,8 @@
 
 ╰┈➤  ![Profile views](https://komarev.com/ghpvc/?username=Jhessye&label=Profile%20Views%20&color=ff69b4&style=flat-square)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Jhessye)
+![GitHub Streak](https://streak-stats.demolab.com?user=Jhessye)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhessye)
 
 <img width="910" height="396" alt="logo" src="https://github.com/user-attachments/assets/3456ba3d-3fc5-4fe5-abe5-f0757c70d192" />
 
