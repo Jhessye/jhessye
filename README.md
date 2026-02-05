@@ -1,8 +1,9 @@
-## Welcome to my GitHub sweetie 👋💗
+## Welcome to my GitHub sweetie ₍ ᐢ.ˬ.ᐢ₎˚୨୧
 
 <img width="910" height="396" alt="logo" src="https://github.com/user-attachments/assets/3456ba3d-3fc5-4fe5-abe5-f0757c70d192" />
 
-HELLO! :D 
+
+HELLO! ✧.* 
 
 <table>
   <tr>
@@ -16,12 +17,11 @@ HELLO! :D
   </tr>
 </table>
 
-
-I’m especially interested in projects that mix **software development + data + decision-making**, like recommendation systems, simulations, automation tools, games, and small real-world systems.
+I’m especially interested in projects that combines all my knowledge, **software development + data + decision-making**, like recommendation systems, simulations, games, some cute stuff and small real-world systems. I’m also passionate about the academic side of computing.
 
 ---
 
-## ![About Me](https://img.shields.io/badge/ABOUT%20ME%20:D-ff69b4?style=for-the-badge&logo=heart&logoColor=white)
+## ![About Me ツ](https://img.shields.io/badge/ABOUT%20ME%20ツ-ff69b4?style=for-the-badge&logo=heart&logoColor=white)
 
 *  Developer in training with a strong foundation in **programming logic**
 *  ![LOVE PINK](https://img.shields.io/badge/LOVE%20PINK!-ffc0cb?style=flat-square&logoColor=white)
@@ -33,7 +33,7 @@ I’m especially interested in projects that mix **software development + data +
 
 ---
 
-## ![What I Build](https://img.shields.io/badge/WHAT%20I%20BUILD-ff69b4?style=for-the-badge&logo=heart&logoColor=white)
+## ![What I Build](https://img.shields.io/badge/WHAT%20I%20BUILD-ff69b4?style=for-the-badge&logo=heart&logoColor=white) ✧.*
 
 My projects are usually **system-oriented and practical**, mixing code, logic, and experimentation:
 
@@ -82,20 +82,40 @@ My projects are usually **system-oriented and practical**, mixing code, logic, a
 > there's definitely more.
 ---
 
-## ![Featured Projects](https://img.shields.io/badge/FEATURED%20PROJECTS-ff69b4?style=for-the-badge&logo=heart&logoColor=white)
+## ![Featured Projects](https://img.shields.io/badge/FEATURED%20PROJECTS-ff69b4?style=for-the-badge&logo=heart&logoColor=white) ₊˚ପ⊹
 
 *  **Movie Recommendation System** (Python + KNN + probability)
 *  **Inventory Management System** (Java + OOP + Database)
 *  **ETL & data-driven tools**
-*  **Java simulations & calculators**
-*  **Applied ML experiments**
 *  **Systems that combine logic, data, and structure**
+*  **A game with all the basic knowledge applied.**
 
 ---
 
-## ![Let's Connect](https://img.shields.io/badge/LET'S%20CONNECT%20<3-ff69b4?style=for-the-badge&logo=heart&logoColor=white)
+## ![Let's Connect](https://img.shields.io/badge/LET'S%20CONNECT%20<3-ff69b4?style=for-the-badge&logo=heart&logoColor=white) 
 
-If you’re into **software development, applied AI, or practical systems** or want to just have fun, feel free to explore my repos or reach out.
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+    <tr>
+      <td width="35%" align="center" valign="middle">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlrb2h4M2RyNm5xdjFmb3piemFmMDNpempsa29nemdsYnB2eDZmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VgBjZMVzOZSHZuLM6W/giphy.gif" width="180" alt="connect gif"/>
+      </td>
+      <td width="65%" valign="middle">
+        If you’re into <strong>software development, applied AI, or practical systems</strong> — or just want to have fun — feel free to explore my repos or reach out.<br><br>
+        <em>Code with purpose, systems with logic, and just enough chaos to keep it fun.</em> ✨<br>
+        <strong>DEV BUT MAKE IT PINK</strong> 💗👩‍💻
+        <br><br>
+        <!-- Links rosa -->
+        <a href="https://www.linkedin.com/in/jhessye-lorrayne-924733243/">
+          <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=flat-square&logo=linkedin&logoColor=white"/>
+        </a>
+        <br>
+        <a href="mailto:ljhessye@gmail.com">
+          <img src="https://img.shields.io/badge/E--mail-ff69b4?style=flat-square&logo=gmail&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-> *Code with purpose, systems with logic, and just enough chaos to keep it fun.* ✨
-> DEV BUT MAKE IT PINK 💗👩‍💻
+  ▄▀▄▀▄▀▄▀▄▀▄▄▀▄▀▄▀▄▀▄▀▄▄▀▄▀▄▀▄▀▄▀▄▄▀▄▀▄▀▄▀▄▀▄▄▀▄▀▄▀▄▀▄▀▄▄▀▄▀▄▀▄▀▄▀▄▄▀▄▀▄▀▄▀▄▀▄▄▀▄▀▄▀▄▀▄▀▄
