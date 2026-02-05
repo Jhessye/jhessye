@@ -108,6 +108,10 @@ My projects are usually **system-oriented and practical**, mixing code, logic, a
         <a href="mailto:ljhessye@gmail.com">
           <img src="https://img.shields.io/badge/E--mail-ff69b4?style=flat-square&logo=gmail&logoColor=white"/>
         </a>
+        <br>
+        <a href="https://docs.google.com/document/d/1164MLG9dAE-9G48BGcJxw_HGDkjOczVkR8QoPYRVWxs/edit?usp=sharing">
+          <img src="https://img.shields.io/badge/CV-ff69b4?style=flat-square&logo=googledocs&logoColor=white"/>
+        </a>
       </td>
     </tr>
   </tbody>
