@@ -52,7 +52,7 @@ My projects are usually **system-oriented and practical**, mixing code, logic, a
 > I promise to deliver more cool projects.
 ---
 
-## ![Some Tech Stack](https://img.shields.io/badge/SOME%20TECH%20STACK-ff69b4?style=for-the-badge&logo=heart&logoColor=white)
+## ![Some Tech Stack](https://img.shields.io/badge/SOME%20TECH%20STACK-ff69b4?style=for-the-badge&logo=heart&logoColor=white) ₊˚ପ⊹
 
 ### 💗 Languages
 
@@ -80,16 +80,6 @@ My projects are usually **system-oriented and practical**, mixing code, logic, a
 ![Power BI](https://img.shields.io/badge/Power-BI-F2C811?style=for-the-badge\&logo=powerbi)
 
 > there's definitely more.
----
-
-## ![Featured Projects](https://img.shields.io/badge/FEATURED%20PROJECTS-ff69b4?style=for-the-badge&logo=heart&logoColor=white) ₊˚ପ⊹
-
-*  **Movie Recommendation System** (Python + KNN + probability)
-*  **Inventory Management System** (Java + OOP + Database)
-*  **ETL & data-driven tools**
-*  **Systems that combine logic, data, and structure**
-*  **A game with all the basic knowledge applied.**
-
 ---
 
 ## ![Let's Connect](https://img.shields.io/badge/LET'S%20CONNECT%20<3-ff69b4?style=for-the-badge&logo=heart&logoColor=white) 
