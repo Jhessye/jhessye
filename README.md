@@ -20,7 +20,7 @@ HELLO! ✧.*
 
 I’m especially interested in projects that combines all my knowledge, **software development + data + decision-making**, like recommendation systems, simulations, games, some cute stuff and small real-world systems. I’m also passionate about the academic side of computing.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Jhessye)
+![GitHub Streak](https://streak-stats.demolab.com?user=Jhessye&theme=github-light)
 
 ---
 
